@@ -1,6 +1,7 @@
 const CACHE_NAME = 'offline-cache-v1';
 const urlsToCache = [
   'index.html',
+  'sub-page.html',
   'style.css',
   'script.js',
   'icon.png'
